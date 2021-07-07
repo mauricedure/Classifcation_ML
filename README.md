@@ -1,1 +1,2 @@
 # Classifcation_ML
+This Machine-Learning example uses a variety of credit-related risk factors to predict a potential client's credit risk. Machine Learning models include Logistic Regression, Balanced Random Forest and EasyEnsemble, and a variety of re-sampling techniques are used (Oversampling/SMOTE, Undersampling/Cluster Centroids, and SMOTEENN) to re-sample the data. Evaluation metrics like the accuracy score, classification report and confusion matrix are generated to compare models and determine which suits this particular set of data best.
